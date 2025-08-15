@@ -4,7 +4,7 @@ A Python script that reads a CSV of expenses, summarizes totals by category and 
 
 ## Features
 - Summarizes expenses by category and month
-- Saves top categories chart as `top_categories.png`
+- Displays (and saves) the top 5 categories chart as `top_categories.png`
 - Exports summary CSV files: `category_total.csv` and `monthly_total.csv`
 
 ## Requirements
